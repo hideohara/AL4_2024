@@ -13,7 +13,7 @@ void GameScene::Initialize() {
 	audio_ = Audio::GetInstance();
 
 	// ファイル名を指定してテクスチャを読み込む
-	//textureHandle_ = TextureManager::Load("test.png");
+	//textureHandle_ = TextureManager::Load("mario.png");
 
 }
 
